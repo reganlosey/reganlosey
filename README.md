@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - Git/ GitHub
 
 
-###Let's chat! 
+### Let's chat! 
 <hr>
-- Drop me a line on [LinkedIn](https://www.linkedin.com/in/regan-losey/) or shoot me an email @regan.losey@gmail.com!
+
+ - Drop me a line on [LinkedIn](https://www.linkedin.com/in/regan-losey/) or shoot me an email @regan.losey@gmail.com!
