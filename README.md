@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   - Creating / learning new things! 
 
 
-#### Currently a Front End Engineering student at the Turing School Of Software adn Design.
+#### Currently a Front End Engineering student at the Turing School Of Software and Design.
 <hr>
 
 #### Learning :
