@@ -13,18 +13,17 @@ Here are some ideas to get you started:
   - Creating / learning new things! 
 
 
-#### Currently a FrontEnd Engineering student at the Turing School Of Software adn Design.
+#### Currently a Front End Engineering student at the Turing School Of Software adn Design.
 <hr>
 
 #### Learning :
   - HTML5
   - JavaScript
-  - SCSS
+  - CSS3
+  - SASS
   - Mocha/Chai
   - Git/ GitHub
 
 
 #### Let's chat! 
-<hr>
-
  - Drop me a line on [LinkedIn](https://www.linkedin.com/in/regan-losey/) or shoot me an email @regan.losey@gmail.com!
