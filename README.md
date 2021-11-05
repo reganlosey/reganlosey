@@ -1,4 +1,4 @@
-### Hi there, I'm Regan! 👋
+## Hey, I'm Regan! 👋
 
 <!-- 
 **reganlosey/reganlosey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
