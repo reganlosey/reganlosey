@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
  -->
  
- [![Regan's GitHub stats](https://github-readme-stats.vercel.app/api?username=reganlosey)]
+ ![Regan's GitHub stats](https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&theme=radical)
+
 
 #### Pronouns: He/ Him
 
