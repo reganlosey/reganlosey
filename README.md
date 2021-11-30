@@ -29,7 +29,7 @@
 
 <hr>
 
-### My Stats 🤓 
+### My Github Stats 
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
