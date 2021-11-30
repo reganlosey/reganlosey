@@ -29,8 +29,6 @@
 
 <hr>
 
-### My Github Stats 
-  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=aura" alt="reganlosey" /></p>
