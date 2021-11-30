@@ -8,13 +8,13 @@
   - Creating / learning new things! 
 
 
-- 🌱 I’m currently learning **React.js and Cypress**
+- 🌱  I’m currently learning **React.js and Cypress**
 
-- 💬 Ask me about **JavaScript, HTML, CSS/SCSS**
+- 💬  Ask me about **JavaScript, HTML, CSS/SCSS**
 
-- 🏡 Currently in **Flagstaff, Arizona**
+- 🏡  Currently in **Flagstaff, Arizona**
 
-- ⚡🧠 Fun fact: **The word for "penguin" in Mandarin translates to "business goose"**
+- ⚡🧠  Fun fact: **The word for "penguin" in Mandarin translates to "business goose"**
 
 <hr>
 
