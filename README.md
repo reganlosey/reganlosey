@@ -3,8 +3,6 @@
 ### Pronouns: He/ Him
 
 
-- 🌱   I’m currently learning **React.js and Cypress**
-
 - 💬   Ask me about **JavaScript, HTML, CSS/SCSS**
 
 - 🏡   Currently in **Flagstaff, Arizona**
@@ -15,7 +13,7 @@
 ### Some Of My Hobbies: 
   - Camping 🏕
   - Brazilian Jiu Jitsu 🥋
-  - Creating / learning new things! 
+  - Creating / designing new things ! 
 <hr>
 
 ### Let's chat! 
