@@ -1,9 +1,24 @@
 <h1 align="center">Hey 👋, I'm Regan!</h1>
+ 
+ ![Regan's GitHub stats](https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&theme=tokyonight)
+
+<hr>
+
+#### Pronouns: He/ Him
+
+#### Some Of My Hobbies: 
+  - Camping 🏕
+  - Brazilian Jiu Jitsu 🥋
+  - Creating / learning new things! 
+
+
 - 🌱 I’m currently learning **React.js and Cypress**
 
 - 💬 Ask me about **JavaScript, HTML, CSS/SCSS**
 
 - ⚡ Fun fact: **The word for "penguin" in Mandarin translates to "business goose"**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,32 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact" alt="reganlosey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en" alt="reganlosey" /></p>
-
-
- -->
- 
- ![Regan's GitHub stats](https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&theme=tokyonight)
-
-
-#### Pronouns: He/ Him
-
-#### Some Of My Hobbies: 
-  - Camping 🏕
-  - Brazilian Jiu Jitsu 🥋
-  - Creating / learning new things! 
-
-
-#### Currently a Front End Engineering student at the Turing School Of Software and Design.
 <hr>
-
-#### Learning :
-  - HTML5
-  - JavaScript
-  - CSS3
-  - SASS
-  - Mocha/Chai
-  - Git/ GitHub
-
 
 #### Let's chat! 
  - Drop me a line on [LinkedIn](https://www.linkedin.com/in/regan-losey/) or shoot me an email @regan.losey@gmail.com!
