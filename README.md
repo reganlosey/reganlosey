@@ -9,7 +9,7 @@
 
 - 🏡   Currently in **Flagstaff, Arizona**
 
-- ⚡ 🧠   Fun fact: **The word for "penguin" in Mandarin translates to "business goose"**
+- 🧠   Fun fact: **The word for "penguin" in Mandarin translates to "business goose"**
 
 
 ### Some Of My Hobbies: 
