@@ -2,11 +2,6 @@
 
 ### Pronouns: He/ Him
 
-### Some Of My Hobbies: 
-  - Camping 🏕
-  - Brazilian Jiu Jitsu 🥋
-  - Creating / learning new things! 
-
 
 - 🌱  I’m currently learning **React.js and Cypress**
 
@@ -16,6 +11,11 @@
 
 - ⚡🧠  Fun fact: **The word for "penguin" in Mandarin translates to "business goose"**
 
+
+### Some Of My Hobbies: 
+  - Camping 🏕
+  - Brazilian Jiu Jitsu 🥋
+  - Creating / learning new things! 
 <hr>
 
 ### Let's chat! 
