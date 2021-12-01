@@ -7,17 +7,16 @@
 
 - 🏡   Currently in **Flagstaff, Arizona**
 
-- 🧠   Fun fact: **The word for "penguin" in Mandarin translates to "business goose"**
+### Let's chat! 
+ - Drop me a line on [LinkedIn](https://www.linkedin.com/in/regan-losey/) or shoot me an email @regan.losey@gmail.com!
+
+
 
 
 ### Some Of My Hobbies: 
   - Camping 🏕
   - Brazilian Jiu Jitsu 🥋
   - Creating / designing new things ! 
-<hr>
-
-### Let's chat! 
- - Drop me a line on [LinkedIn](https://www.linkedin.com/in/regan-losey/) or shoot me an email @regan.losey@gmail.com!
 
 <hr>
 
