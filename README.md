@@ -7,8 +7,10 @@
 
 - 🏡   Currently in **Flagstaff, Arizona**
 
-### Let's chat! 
- - Drop me a line on [LinkedIn](https://www.linkedin.com/in/regan-losey/) or shoot me an email @regan.losey@gmail.com!
+- 📫  I'd love to chat, here's how to reach me! :
+  - [LinkedIn](https://www.linkedin.com/in/regan-losey/)
+  - Email: regan.losey@gmail.com
+
 
 
 
