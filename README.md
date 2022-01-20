@@ -3,7 +3,7 @@
 ### Pronouns: He/ Him
 
 
-- 💬   Ask me about **JavaScript, HTML, CSS/SCSS**
+- 💬   Ask me about **JavaScript, HTML, React, Cypress, CSS/SCSS**
 
 - 🏡   Currently in **Flagstaff, Arizona**
 
@@ -11,12 +11,8 @@
   - [LinkedIn](https://www.linkedin.com/in/regan-losey/)
   - Email: reganloseydev@gmail.com
 
-### Some Of My Hobbies: 
-  - Camping 🏕
-  - Brazilian Jiu Jitsu 🥋
-  - Creating / designing new things ! 
 
-
+<hr>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
@@ -30,3 +26,9 @@
 
 
 <hr>
+
+### Some Of My Hobbies: 
+  - Camping 🏕
+  - Brazilian Jiu Jitsu 🥋
+  - Creating / designing new things ! 
+
