@@ -9,7 +9,7 @@
 
 - 📫  I'd love to chat, here's how to reach me! :
   - [LinkedIn](https://www.linkedin.com/in/regan-losey/)
-  - Email: regan.losey@gmail.com
+  - Email: reganloseydev@gmail.com
 
 
 
