@@ -45,4 +45,4 @@
 ### More about me:
   - I'm currently living the sweet mountain town life in Flagstaff, AZ.
   - I've been training martial arts for over 10 years, I'm currently training towards my black belt in Brazilian Jiu Jitsu🥋
-  - I love to travel, I'm currently on a mission to visit every art museum in each major US City.
+  - I love all kinds of art, I'm currently on a mission to visit every art museum in each major US City.
