@@ -10,7 +10,6 @@
 <p align="left">    I'm a front end software developer with a background in automotive sales, photography, and the service industry. I'm excited to be able to combine my fascination with technology and passion to create to build applications that provide an all-inclusive and engaging user experience. The opportunity to be a part of, and contribute to, the growing tech industry is thrilling.
 </p>
 
-<hr>
 
 <p>&nbsp;<img align="left" dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
