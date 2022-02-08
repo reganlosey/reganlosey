@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="left" dir="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=aura" alt="reganlosey" /></p>
 
-<p>&nbsp;<img align="right" dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
+<p>&nbsp;<img align="center" dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
 
   
