@@ -7,13 +7,13 @@
 
 
 <br>
-<p align="left">    I'm a front end software developer with a background in automotive sales, photography, and the service industry. I'm excited to be able to combine my fascination with technology and passion to create to build applications that provide an all-inclusive and engaging user experience. The opportunity to be a part of, and contribute to, the growing tech industry is thrilling.
+<p align="left">    I'm a Front End software engineer, martial artist, and museum going-to-er looking to bring my keen eye for design, passion to learn, and enthusiasm for technology to a team. I'm excited to be able to combine my fascination with technology and passion to create to build applications that provide an all-inclusive and engaging user experience. 
 </p>
 
 
 <p>&nbsp;<img align="left" dir="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=aura" alt="reganlosey" /></p>
 
-<p>&nbsp;<img align="center" dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
+<p>&nbsp;<img align="right" dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
 
   
