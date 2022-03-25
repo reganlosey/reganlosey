@@ -1,29 +1,32 @@
-<h1 align="left">Hey, I'm Regan!</h1>
+<h1 align="center">Hey, I'm Regan!</h1>
 
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regan-losey/) -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regan-losey/)
-
-
-
-
-<br>
-<p align="left">    I'm a Front End software engineer, martial artist, and museum going-to-er looking to bring my keen eye for design, passion to learn, and enthusiasm for technology to a team. I'm excited to be able to combine my fascination with technology and passion to create to build applications that provide an all-inclusive and engaging user experience. 
+<p align ="center">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 
-<p>&nbsp;<img align="left" dir="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=aura" alt="reganlosey" /></p>
 
-<p>&nbsp;<img align="center" dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
+
+<br>
+<p align="center">I'm a Front End software engineer, martial artist, and museum going-to-er looking to bring my keen eye for design, passion to learn, and enthusiasm for technology to a team. I'm excited to be able to combine my fascination with technology and passion to create to build applications that provide an all-inclusive and engaging user experience. 
+</p>
+
+<br>
+
+<p align="center">&nbsp;<img dir="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=aura" alt="reganlosey" /></p>
+
+<p align="center"> &nbsp;<img dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
-
-  
-
-
-
 <hr>
+<br>
+<br>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -41,6 +44,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</p>
 
 
 <hr>
