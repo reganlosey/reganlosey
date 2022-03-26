@@ -4,13 +4,13 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
-<p align="left">I'm a Front End software engineer, martial artist, and museum going-to-er looking to bring my keen eye for design, passion to learn, and enthusiasm for technology to a team. I'm excited to be able to combine my fascination with technology and passion to create to build applications that provide an all-inclusive and engaging user experience. 
+<p align="center" style="font-size:1.25em">I'm a Front End software engineer, martial artist, and museum going-to-er looking to bring my keen eye for design, passion to learn, and enthusiasm for technology to a team. I'm excited to be able to combine my fascination with technology and passion to create to build applications that provide an all-inclusive and engaging user experience. 
 </p>
 
 <br>
-<p align="center">&nbsp;<img dir="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=aura" alt="reganlosey" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=aura" alt="reganlosey" /></p>
 
-<p align="center"> &nbsp;<img dir="auto" src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
+<p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=aura" alt="reganlosey" /></p>
   
 <br>
 <hr>
