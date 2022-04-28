@@ -11,7 +11,7 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reganlosey&show_icons=true&locale=en&layout=compact&theme=noctis_minimus" alt="reganlosey" /></p>
 
 <p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=reganlosey&show_icons=true&locale=en&theme=noctis_minimus" alt="reganlosey" /></p>
-  
+<p align="center"><img src="https://www.codewars.com/users/regalbeagle/badges/large" alt="reganlosey-codewars-badge"/></p>
 <br>
 <hr>
 <br>
