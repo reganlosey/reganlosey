@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
-<p align="center" style="font-size:1.25em">I'm a Front End software engineer, martial artist, and museum going-to-er looking to bring my keen eye for design, love of learning, and top-tier pun game to a team. 
+<p align="center" style="font-size:1.25em">I'm a Front End software engineer, martial artist, and museum going-to-er. Lover of puns, coffee, and crewneck sweaters. 
 </p>
 
 <br>
